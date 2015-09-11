@@ -1,4 +1,4 @@
 {
-  "test": "pyenv global 2.7.10 && python -m unittest -v fizbuzz_tests",
+  "test": python -m unittest -v fizbuzz_tests",
   "allowNewFile": false
 }
