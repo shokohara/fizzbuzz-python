@@ -1,4 +1,4 @@
 {
-  "test": python -m unittest -v fizbuzz_tests",
+  "test": "gpython -m unittest -v fizbuzz_tests",
   "allowNewFile": false
 }
