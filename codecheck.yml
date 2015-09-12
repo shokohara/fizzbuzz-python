@@ -1,1 +1,1 @@
-test: python -m unittest -v fizbuzz_tests
+test: python -m unittest -v fizzbuzz_tests
